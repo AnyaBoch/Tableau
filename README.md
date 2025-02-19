@@ -30,7 +30,7 @@ Most popular Hop off Stations in July 2024 (top 20)
 
 ![alt text](<Screenshot 2025-02-19 at 01.08.00.png>)
 
-Most populat Hop off Stations in July 2024 (top 20)
+Most popular Hop on Stations in July 2024 (top 20)
 
 ![alt text](<Screenshot 2025-02-19 at 01.07.43.png>)
 
