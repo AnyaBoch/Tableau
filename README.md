@@ -1,4 +1,4 @@
-While analyzing Citi Bike data for July 2014 and July 2024, I uncovered some interesting insights and trends. But cleaning and combining such a huge data also needed some Python touch. Please see details in jupyter files.
+While analyzing Citi Bike data for July 2014 and July 2024, I uncovered some interesting insights and trends. But cleaning and combining such a huge data also needed some Python touch. Please see details in jupyter files
 
 Comparing Citi Bike usage in July 2014 and July 2024, several key trends emerge:
 	
